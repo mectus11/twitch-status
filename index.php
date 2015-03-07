@@ -54,12 +54,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Twitch Status</title>
         <link href="css/essentials.css" rel="stylesheet">
-		<link href="css/menu.css" rel="stylesheet">
-		<link href="css/buttons.css" rel="stylesheet">
-		<link href="css/columns.css" rel="stylesheet">
+        <link href="css/buttons.css" rel="stylesheet">
         <script src="js/script.js"></script>
-		<script src="js/tabs.js"></script>
-		<link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
     </head>
 	
 	
@@ -87,7 +84,7 @@
 			            <a class="youtubebutton" href="#">Channel 2</a>
 			            <a class="youtubebutton" href="#">Channel 3</a>
 			        </div>
-			</div>
+		        </div>
 		</div>
 	</body>
 							
