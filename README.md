@@ -12,8 +12,7 @@ Uses the Twitch kraken API.
 
 ## Contirubtors
 
-Slayer from www.faafnetwork.org thanks to his css I was able to replicate and make a close background to one of his unfinished projects.
-^ Great guy.
+no booty
 
 ## Tests
 
