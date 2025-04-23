@@ -10,14 +10,6 @@ Everything is detailed inside the php index file, it's pretty easy to modify.
 
 Uses the Twitch kraken API.
 
-## Contirubtors
-
-no booty
-
-## Tests
-
-Demo is here: http://energic.j3w.biz/twitch/
-
 ## Images
 ![alt tag](http://faaf.me/0hxT/34887f)
 ![alt tag](http://faaf.me/qmAd/13613e)
